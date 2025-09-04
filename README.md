@@ -1,4 +1,20 @@
 # rest-emp-pre-alpha
-ruby ile yazılmış basit restoran simülasyonu henüz geliştirme aşamasında olduğu için biraz basit ve şube aç-bekle-yatırım yap-daha fazla para kazan döngüsünde ve komut satırı arayüzünde bunun sebebi daha rubyde olan shoes gui kütüphanesini çözemememdir. yakın zamanada gui barındıran halini eklerim iyi oyunlar :)
-pre alpha sürümünü çalıştırmak için ruby'e ihtiyacınız var indirmek için:
-https://rubyinstaller.org/downloads/
+Restoran Simülasyonu – Pre-Alpha Sürümü
+
+Bu oyun henüz geliştirme aşamasındadır. Şu an temel döngüler üzerinde çalışmaktadır:
+
+Şube aç
+
+Bekle
+
+Yatırım yap
+
+Daha fazla para kazan
+
+Oyun, komut satırı arayüzü ile çalışmaktadır. GUI (grafik arayüz) desteği için Ruby’nin Shoes kütüphanesini çözmeye çalışıyorum; yakın zamanda GUI destekli sürümü yayınlamayı planlıyorum.
+
+**Gereksinimler**
+
+**Ruby** yüklü olmalıdır.
+
+Ruby’yi indirmek için: https://rubyinstaller.org/downloads/
