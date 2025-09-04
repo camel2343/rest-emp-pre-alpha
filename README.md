@@ -15,7 +15,7 @@ Daha fazla para kazan
 
 Oyun, komut satırı arayüzü ile çalışmaktadır. GUI (grafik arayüz) desteği için Ruby’nin Shoes kütüphanesini çözmeye çalışıyorum; yakın zamanda GUI destekli sürümü yayınlamayı planlıyorum.
 
-**Gereksinimler**
+# Gereksinimler
 
 **Ruby** yüklü olmalıdır.
 
